@@ -26,7 +26,7 @@
     "querybase": "^0.6.0",
     "react": "16.8.3",
     "react-dom": "16.8.3",
-    "react-native": "0.61.4",
+    "react-native": "0.62.3",
     "react-native-base": "^1.1.0",
     "react-native-calendars": "^1.265.0",
     "react-native-card-animated-modal": "^1.0.3",
